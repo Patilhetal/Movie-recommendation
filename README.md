@@ -145,9 +145,10 @@ Poster images are fetched using the **TMDB API**.
 
 AI/ML Enthusiast | Python Developer | Machine Learning
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Patilhetal
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/hetalpatil14
+
 
 ---
 
